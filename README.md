@@ -92,7 +92,7 @@ And the assistant will respond with formatted, relevant answers.
 
 Here’s what the chatbot looks like:
 
-![Chatbot Screenshot](screenshots/image1.png)
+![Chatbot Screenshot](Screenshots/image1.png)
 
 ---
 

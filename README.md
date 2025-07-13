@@ -1,5 +1,5 @@
 
-# Private LLM Chatbot
+# Local LLM Chatbot
 
 A AI assistant built with **Django** and **Ollama**, powered by **LLaMA 3.2**. The goal for this project is to replicate  ChatGPT-like experience locally — entirely offline and private.
 
@@ -45,8 +45,8 @@ A AI assistant built with **Django** and **Ollama**, powered by **LLaMA 3.2**. T
 
 1️⃣ **Clone the repo**
 ```bash
-git clone https://github.com/karthik0967/Private-LLM-Chatbot.git
-cd private-llm-chatbot
+git clone https://github.com/karthik0967/Local-LLM-Chatbot.git
+cd Local-llm-chatbot
 ```
 
 2️⃣ **Create a virtual environment**

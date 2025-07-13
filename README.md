@@ -11,7 +11,8 @@ A AI assistant built with **Django** and **Ollama**, powered by **LLaMA 3.2**. T
 - [Ollama](https://ollama.com) installed and running locally
   - Make sure you have downloaded a model (e.g., `llama3.2`) using:
     ```
-    ollama run llama3.2
+    ollama pull llama3.2
+    
     ```
   - Start the Ollama server in a separate terminal:
     ```
